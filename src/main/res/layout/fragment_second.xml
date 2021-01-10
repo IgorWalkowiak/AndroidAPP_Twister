@@ -17,11 +17,11 @@
 
     <TextView
         android:id="@+id/timeText"
-        android:layout_width="328dp"
-        android:layout_height="110dp"
+        android:layout_width="343dp"
+        android:layout_height="130dp"
         android:text="Ready?"
         android:textAlignment="center"
-        android:textSize="50sp"
+        android:textSize="64sp"
         app:layout_constraintBottom_toTopOf="@+id/button_second"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,8 +29,8 @@
 
     <TextView
         android:id="@+id/textResult"
-        android:layout_width="179dp"
-        android:layout_height="63dp"
+        android:layout_width="235dp"
+        android:layout_height="105dp"
         android:textAlignment="center"
         app:layout_constraintBottom_toTopOf="@+id/timeText"
         app:layout_constraintEnd_toEndOf="parent"
